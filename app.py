@@ -1,7 +1,7 @@
 ﻿import os
 
 print("""
-     Ｓａｂｏｒ ｅｘｐｒｅｓｓ
+     Ｓａｂｏｒ Ｅｘｐｒｅｓｓ
        """)
 
 print('1. Cadastrar Restaurante')
@@ -15,7 +15,7 @@ print(f'Você escolheu a opção {opcao_escolhida}')
 
 def finalizar_app():
   os.system('cls')
-  print('Fechando o aplicativo\n')
+  print('Ａｐｌｉｃａｔｉｖｏ Ｆｉｎａｌｉｚａｄｏ\n')
 
 
 if opcao_escolhida == 1:
